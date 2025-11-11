@@ -1,0 +1,6 @@
+Flask
+requests
+imageio
+Pillow
+mss
+PyQt5
